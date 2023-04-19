@@ -1,1 +1,1 @@
-# Verification-of-AHB-Master-to-Wishbone-Slave-Bridge
+AHB-Master-to-Wishbone-Slave-Bridge
